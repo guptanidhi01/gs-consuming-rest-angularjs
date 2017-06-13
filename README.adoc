@@ -1,7 +1,6 @@
 ---
 tags: [JavaScript, rest]
 projects: [spring-framework]
-nidhi
 ---
 :spring_boot_version: 1.5.3.RELEASE
 :gs-rest-service-cors: link:/guides/gs/rest-service-cors/
